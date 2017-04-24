@@ -11,30 +11,33 @@
    ========================================================================== */
 
 html {
-    background: url("../img/stage.png") no-repeat center fixed;
+    background: url("../img/general2.jpg") no-repeat center fixed;
     background-size: cover;
     font-size: 1em;
-    line-height: 1.4;
     font-family: Helvetica;
 }
 
-.title {
-    width: 512px;
-    margin: 0 auto;
-    padding-top: 125px;
+h2 {
     color: white;
 }
 
-.mainForm     {
+a   {
+    color: red;
+}
+
+.wargamesForm     {
     text-align: center;
+    color: black;
+}
+
+#wargamesQuotes    {
     color: white;
+    margin-left: 250px;
+    width: 800px;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    
 }
-
-img:hover {
-     height: 350px;
-     width: 225px;
-}
-
 
 
 /*
